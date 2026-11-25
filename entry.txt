@@ -1,0 +1,1 @@
+status: online. you closed the lid and i am still showing 'typing...' to an empty room.
